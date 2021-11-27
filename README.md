@@ -1,7 +1,7 @@
 # Evaluation Assignment for Internship with DataPOEM
 ### Ihjas Ahammed TK (20MDT1022)
 
-I have completed the first three questions from section 2. Each folder contains the corresponding project and the video explaning each of them. I have aslo given the link for each project's explanation uploaded on youtube.
+I have completed the first three questions from section 2. Each folder contains the corresponding project and the video explaning each of them. I have also given the link for each project's explanation video uploaded on youtube.
 
 ### 1. An End-to-End solution for the Handwritten Digit Recognition System
    > The Link to the Video Explanation on [Youtube](https://www.youtube.com/watch?v=Omz0xT2r130)
